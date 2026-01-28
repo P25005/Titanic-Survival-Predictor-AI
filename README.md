@@ -50,7 +50,6 @@ Este proyecto une el mundo de la **Ciencia de Datos** con el **Desarrollo Web**,
 ```bash
 titanic-ai-demo/
 ├── 📄 app.py              # Punto de entrada principal (Lógica Streamlit)
-├── 📓 prueba.ipynb        # Notebook para EDA (Análisis exploratorio) y Entrenamiento
 ├── 📦 modelo_titanic.pkl  # Modelo Random Forest serializado
 ├── 📄 requirements.txt    # Dependencias del proyecto
 └── 📄 README.md           # Documentación
@@ -101,7 +100,7 @@ La aplicación realiza ingeniería de características interna para convertir da
 
 ## 👤 Autor
 
-**[Tu Nombre]**  
+**Pau Mateo**  
 *Estudiante de Desarrollo de Aplicaciones Multiplataforma y Web (DAM/DAW)*
 
-Conecta conmigo en [LinkedIn](https://linkedin.com/in/tu-perfil) | Mira mi [GitHub](https://github.com/tu-usuario)
+Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/pau-mateo-150471262/) | Mira mi [GitHub](https://github.com/P25005)
