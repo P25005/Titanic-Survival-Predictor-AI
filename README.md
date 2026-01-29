@@ -63,8 +63,8 @@ Si prefieres ejecutar el código en tu propia máquina:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/titanic-ai-demo.git
-cd titanic-ai-demo
+git clone https://github.com/P25005/Titanic-Survival-Predictor-AI.git
+cd Titanic-Survival-Predictor-AI
 ```
 
 ### 2. Crear Entorno Virtual (Recomendado)
